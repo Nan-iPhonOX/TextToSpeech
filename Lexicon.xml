@@ -7,6 +7,6 @@
       alphabet="sapi" xml:lang="zh-CN">
   <lexeme>
     <grapheme>精调</grapheme>
-    <alias>jing 1 tiao 2</alias>
+    <phoneme> jing 1 tiao 2</phoneme>
   </lexeme>
 </lexicon>

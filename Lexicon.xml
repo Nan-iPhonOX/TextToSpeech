@@ -7,11 +7,7 @@ alphabet="sapi"
 xml:lang="zh-CN" 
 xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
-    <grapheme>BTW</grapheme>
-    <alias>By the way</alias>
-  </lexeme>
-  <lexeme>
     <grapheme>你好</grapheme>
-    <phoneme>ni 2 - hao 3</phoneme>
+    <phoneme>ni 2 - hao 2</phoneme>
   </lexeme>
 </lexicon>

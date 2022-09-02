@@ -5,13 +5,13 @@
       xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon
         http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd"
       alphabet="sapi" xml:lang="zh-CN">
-        <lexeme>
+<lexeme>
     <grapheme>BTW</grapheme>
     <alias>By the way</alias>
   </lexeme>
   <lexeme>
-    <grapheme> Benigni </grapheme>
-    <phoneme> bɛˈniːnji</phoneme>
+    <grapheme>Benigni</grapheme>
+    <phoneme>bɛˈniːnji</phoneme>
   </lexeme>
   <lexeme>
     <grapheme>😀</grapheme>
@@ -19,7 +19,7 @@
   </lexeme>
   <lexeme>
     <grapheme>精调</grapheme>
-    <phoneme> jing 1 tiao 2</phoneme>
+    <phoneme>jing 1 tiao 2</phoneme>
   </lexeme>
   
 </lexicon>
